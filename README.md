@@ -1,1 +1,1 @@
-# CS 349 - Lab 5 - REST API + ReactJS
+# Ecommerce Website REST API + ReactJS
